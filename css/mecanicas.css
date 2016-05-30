@@ -1,0 +1,22 @@
+body {
+	width: 60%;
+	background-color: #32CD32;
+	font-family: "Times New Roman";
+	color: black;
+	margin-left: 5%;
+}
+
+h1 {
+	text-align: center;	
+}
+
+li {
+	font-weight: bold;
+    font-size: 25px;
+    color: blue;
+    list-style-type: square;
+}
+
+p {
+	font-size: 20px;
+}
